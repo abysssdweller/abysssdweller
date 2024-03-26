@@ -41,10 +41,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.donmai.us/original/64/3c/643ce2484db0f88f845105a6a57372b2.png"  />
-
-###
-
 <div align="left">
   <a href="https://www.youtube.com/@rayenouni5222 " target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -65,7 +61,9 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://cdn.donmai.us/original/64/3c/643ce2484db0f88f845105a6a57372b2.png"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/abysssdweller/abysssdweller/output/snake.svg" alt="Snake animation" />
 
