@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abysssdweller&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=abysssdweller&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
@@ -61,15 +54,13 @@
 
 ###
 
+<h6 align="center">I use arch btw</h6>
+
+###
+
 <img align="right" height="150" src="https://cdn.donmai.us/original/64/3c/643ce2484db0f88f845105a6a57372b2.png"  />
 
 ###
-
-<img src="https://raw.githubusercontent.com/abysssdweller/abysssdweller/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://open.spotify.com/user/0ylxsfcq192dqil6ysp0msk9n">
