@@ -3,10 +3,8 @@
 ###
 
 <div align="left">
-  <p align="left>
-    <img src="https://komarev.com/ghpvc/?username=abysssdweller&color=green"
-alt="rayen" />
-   </p>
+   <img src="https://komarev.com/ghpvc/?username=abysssdweller&color=green"
+alt="abysssdweller" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
